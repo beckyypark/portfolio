@@ -1,11 +1,11 @@
 baseURL: 'http://beckyypark.github.io/portfolio/'
 languageCode: 'en-us'
-title: 'Rebecca Park'
+title: 'Jachob Park'
 theme: 'papermod'
 params:
   profileMode:
     enabled: true
-    title: "Rebecca Park" # optional default will be site title
+    title: "Jachob Park" # optional default will be site title
     subtitle: "Data Analyst"
     imageUrl: "750_9332copy.jpg" # optional
     imageTitle: "grottopic" # optional
