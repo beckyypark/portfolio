@@ -1,6 +1,6 @@
 +++
 date = '2026-02-10T21:55:02-06:00'
-draft = true
+draft = false
 title = 'About Me'
 +++
 ## Hi, I’m Rebecca

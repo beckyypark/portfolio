@@ -2,11 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://beckyypark.github.io/portfolio/aboutme/</loc>
+    <loc>http://beckyypark.github.io/portfolio/aboutme/bio/</loc>
+    <lastmod>2026-02-10T21:55:02-06:00</lastmod>
   </url><url>
-    <loc>http://beckyypark.github.io/portfolio/categories/</loc>
+    <loc>http://beckyypark.github.io/portfolio/aboutme/</loc>
+    <lastmod>2026-02-10T21:55:02-06:00</lastmod>
   </url><url>
     <loc>http://beckyypark.github.io/portfolio/</loc>
+    <lastmod>2026-02-10T21:55:02-06:00</lastmod>
+  </url><url>
+    <loc>http://beckyypark.github.io/portfolio/categories/</loc>
   </url><url>
     <loc>http://beckyypark.github.io/portfolio/tags/</loc>
   </url>

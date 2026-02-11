@@ -13,7 +13,7 @@ params:
     imageHeight: 220 # custom size
     buttons:
       - name: "About Me"
-        url: "/aboutme/bio"
+        url: "/portfolio/aboutme/bio"
   socialIcons: # optional
     - name: "linkedin"
       url: "https://www.linkedin.com/in/beckyypark"
