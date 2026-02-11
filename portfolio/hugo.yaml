@@ -14,7 +14,9 @@ params:
     buttons:
       - name: "About Me"
         url: "/aboutme/bio"
-
   socialIcons: # optional
     - name: "linkedin"
       url: "https://www.linkedin.com/in/beckyypark"
+caches:
+  images:
+    dir: :cacheDir/images
