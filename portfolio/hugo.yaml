@@ -1,0 +1,20 @@
+baseURL: 'https://becca-park.com/'
+languageCode: 'en-us'
+title: 'Rebecca Park'
+theme: 'papermod'
+params:
+  profileMode:
+    enabled: true
+    title: "Rebecca Park" # optional default will be site title
+    subtitle: "Data Analyst"
+    imageUrl: "750_9332copy.jpg" # optional
+    imageTitle: "grottopic" # optional
+    imageWidth: 220 # custom size
+    imageHeight: 220 # custom size
+    buttons:
+      - name: "About Me"
+        url: "/aboutme/bio"
+
+  socialIcons: # optional
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/beckyypark"
