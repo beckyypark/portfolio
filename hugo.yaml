@@ -7,8 +7,8 @@ params:
     enabled: true
     title: "Rebecca Park" # optional default will be site title
     subtitle: "Data Analyst"
-    imageUrl: "750_9332copy.jpg" # optional
-    imageTitle: "grottopic" # optional
+    imageUrl: "gradstairs.jpg" # optional
+    imageTitle: "gradpic" # optional
     imageWidth: 220 # custom size
     imageHeight: 220 # custom size
     buttons:

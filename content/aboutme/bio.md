@@ -15,3 +15,36 @@ Along with industry experience, I’ve spent several years in consulting-style e
 Outside of professional work, I care deeply about community, mentorship, and cultural engagement. I served as President of the Korean Student Association, building inclusive spaces through cultural programming and events, worked as a teaching assistant, helping students develop analytical thinking and client-focused problem-solving skills, and developed community through my role as a resident assistant for my hall community. 
 
 At the core of everything I do is a love for learning, collaboration, and thoughtful problem-solving. What lights my fire is working at the intersection of business, technology, and global impact. I’m always excited for opportunities to keep building, questioning, and growing.
+
+![zion](zionselfie.jpeg) 
+
+| | | |
+|---|---|---|
+| ![dog](tito.jpeg) | ![lyons hall arch](arch.jpeg) | ![mariposa grove](mariposa.jpeg) |
+
+| | | |
+|---|---|---|
+| ![zion sunset](sunset.jpeg) | ![bryce canyon](bryce.jpeg) | ![yosemite](yosemite.jpeg) |
+
+## My Hobbies
+
+### Fishing
+Growing up in Rochester, NY along Lake Ontario and the Erie Canal, some of my favorite memories were spent fishing with my dad. What began as a childhood pastime has become a lifelong practice in patience and presence — a way to disconnect, think clearly, and appreciate the rhythm of nature. Now living in Chicago, with the Chicago River and Lake Michigan nearby, I’ve continued the tradition, finding balance along the water.
+![dusable harbor](dusable.jpeg) 
+
+| | | |
+|---|---|---|
+| ![crappie fish](croppie.jpeg) | ![lake trout](laketrout.jpeg) | ![bluegill fish](bluegill.jpeg) |
+
+
+### Baking 
+Since starting my first full-time role and having a kitchen of my own, I’ve developed a love for baking as both a craft and a creative outlet. I built my own sourdough starter from scratch and regularly experiment with new variations — my favorite being a jalapeño cheddar loaf. During the holidays, I baked over 200 cookies for friends, family, and coworkers. For me, baking is equal parts precision and generosity — a way to create something tangible and share it with the people I care about most.
+
+![bread + focaccia](bread_focaccia.jpeg) 
+
+| | | |
+|---|---|---|
+| ![sourdough bread](bread.jpeg) | ![cookies](cookies.jpeg) | ![apron](apron.jpeg) |
+
+
+
