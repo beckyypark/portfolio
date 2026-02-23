@@ -14,6 +14,8 @@ params:
     buttons:
       - name: "About Me"
         url: "/portfolio/aboutme/bio"
+      - name: "Projects"
+        url: "/portfolio/projects/"
   socialIcons: # optional
     - name: "linkedin"
       url: "https://www.linkedin.com/in/beckyypark"
